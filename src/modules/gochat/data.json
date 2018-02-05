@@ -1,0 +1,60 @@
+{
+	chats: [
+		{
+			id: 1,
+			sender: 'Ronald',
+			message: 'hello this is sample message sjhdasjdhs ajdhsajdksa dhsajdas sajdashdksad',
+			notification: 3
+		},
+		{
+			id: 2,
+			sender: 'Ronald',
+			message: 'hello this is sample message sjhdasjdhs ajdhsajdksa dhsajdas sajdashdksad',
+			notification: 3
+		}
+	],
+	messages: [
+		{
+			id: 1,
+			content: 'Good Morning! hjsahd sajdhsa jdhsad jsahdjs adh ajsdhsa jdhsadj sahdjsadhaskjdsahd sa',
+			from: 'Ronald'
+		},
+		{
+			id: 2,
+			content: 'Good Morning Too!',
+			from: 'Me'
+		}
+	],
+	contacts: [
+		{
+			name: 'Aiden Lucas'
+		},
+		{
+			name: 'Mario Walters'
+		},
+		{
+			name: 'Joseph Lambert'
+		},
+		{
+			name: 'Tina Jennings'
+		},
+		{
+			name: 'Irma Gibson'
+		},
+		{
+			name: 'Lloyd Barnett'
+		},
+		{
+			name: 'Katherine Kennedy'
+		},
+		{
+			name: 'Derek Cooper'
+		},
+		{
+			name: 'Jenice Holt'
+		},
+		{
+			name: 'Jeremiah Gutierez'
+		}	
+	]
+}

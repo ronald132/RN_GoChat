@@ -1,1 +1,0 @@
-export const GET_CURRENT_RATE = 'GET_CURRENT_RATE';
